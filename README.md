@@ -1,22 +1,10 @@
-## ☕ Usando Sistema de Ponto Web
+## Sis Point Web
 
-Para usar a parte web, siga estas etapas:
 
-1. Faça o clone do repositório
-
-```bash
-$ git clone https://github.com/rnfrafael/Sistema-Ponto.git
-```
-
-2. Entre na pasta sistema-ponto/web
+Execute os comandos
 
 ```bash
-$ cd Sistema-Ponto/web
-```
-
-3. Rode o comando para executar vite
-
-```bash
+$ npm install
 $ npm run dev
 ```
 
